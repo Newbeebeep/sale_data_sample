@@ -105,12 +105,5 @@ MyCapstone_SalesAnalysis/
 └── .gitignore
 ```
 
----
 
-## 👩‍💼 Author
-
-**Your Name**  
-Nashville Software School – Data Analytics Cohort  
-GitHub: [your-github-link]  
-LinkedIn: [your-linkedin-link]
 
